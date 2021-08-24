@@ -17,13 +17,22 @@ const Index = ({}: Props) => {
     <>
       <Layout>
         <Head>
-          <title>Next.js Blog Example with {CMS_NAME}</title>
+          <title>Hudba | {CMS_NAME}</title>
         </Head>
         <Container>
           {/* <Intro /> */}
-          <h4>HUDBA</h4>
-          <br />
-          <br />
+          <h1>HUDBA</h1>
+
+          <iframe
+            width="560"
+            height="315"
+            src="https://www.youtube.com/embed/XcMHoApxLNk"
+            title="YouTube video player"
+            frameBorder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            allowFullScreen
+          ></iframe>
+
           <iframe
             width="560"
             height="315"

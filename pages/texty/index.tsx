@@ -21,7 +21,7 @@ const Index = ({ lyrics }: Props) => {
     <>
       <Layout>
         <Head>
-          <title>Next.js Blog Example with {CMS_NAME}</title>
+          <title>Texty | {CMS_NAME}</title>
         </Head>
         <Container>
           <h2>Texty</h2>

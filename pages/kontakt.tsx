@@ -17,23 +17,28 @@ const Index = ({}: Props) => {
     <>
       <Layout>
         <Head>
-          <title>Kontakty - {CMS_NAME}</title>
+          <title>Kontakt | {CMS_NAME}</title>
         </Head>
         <Container>
-          <a href="https://www.facebook.com/Trhni-si-smy%C4%8Dcem-100603462205271">
-            Facebook
-          </a>
           <br />
           <br />
           Kontakt: <br />
-          Tomáš Randus - tom.randus@gmail.com, +420 724 023 901
+          <ul>
+            <li>tom.randus@gmail.com</li>
+            <li>+420 724 023 901</li>
+            <li>
+              <a href="https://www.facebook.com/Trhni-si-smy%C4%8Dcem-100603462205271">
+                Facebook
+              </a>
+            </li>
+          </ul>
           <br />
           <br />
           <h2>Zvučení</h2>
           Pokud je to možné, hrajeme bez jakéhokoliv dozvučení, v prostorech
-          jako jsou budovy divadel, kostely, amfiteátry, galerie. Pokud to
-          situace vyžaduje, hrajeme na jediný kondenzátorový mikrofon s
-          předzesilovačem s velkou membránou a aardioidní charakteristikou.
+          jako jsou budovy divadel, kostely, amfiteátry, galerie. Když je
+          zvučení vyžadováno, hrajeme na jediný velkomembránový kondenzátorový
+          mikrofon kardioidní charakteristiky s předzesilovačem.
           <br />
         </Container>
       </Layout>

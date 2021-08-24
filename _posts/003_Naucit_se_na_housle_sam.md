@@ -1,14 +1,13 @@
 ---
 title: 'Naučit se na housle sám'
 excerpt: 'Jak se naučit na housle bez učitele a je to vůbec dobrý nápad?'
-date: '2021-08-01T05:35:07.322Z'
+date: '2021-08-12T05:35:07.322Z'
 coverImage: '/assets/blog/covers/001.jpeg'
 ogPicture: '/assets/blog/covers/001_og.jpeg'
 author:
   name: Tom Randus
   picture: '/assets/blog/authors/tom.jpeg'
 ---
-
 Pokusím se vás přesvědčit, že učit sám sebe na housle/violu není vůbec špatný nápad. Asi jste slyšeli široce zastávaný názor, že to dobý nápad není. Shodnou se na tom houslité i houslistky, jejich učitelé, jiní hudebníci i lidé, kteří se o hudbu nijak nezajímají.Prostě se to ví. Jen škoda že to není pravda.
 
 Naproti tomu na Youtube je možno objevit stovky lekcí pro houslisty samouky. Na dotaz `self learning violin` vám vyhedavač vrátí desítky tisíc odkazů na různé online lekce a diskuzní fóra pro samouky všech pokročilostí. Zdá se tedy, že je mnoho lidí, kteří se o něco takového zajímají, sami se na housle učí a nebo podporují druhé psaním textů a natáčením videí. Většina textů podobného takového zaměření je v angličtině a v češině nejsou prakticky žádné.
@@ -26,4 +25,3 @@ Je zcela zřejmé že člověk, který se učí sám si může osvojit mnoho šp
 Jak takové samoučení probíhá bude v nějakém pozdějším článku. 
 
 Stejně jako cizí jazyky, sporty, malování a podobné vyžaduje hra na housle/violu “jen” čas, podporu okolí, velikou chuť se učit a především odvahu. Odménou je radost, společenské uznání, přiležitosti k setkávání a osobnostní rozvoj.
-

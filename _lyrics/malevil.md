@@ -1,9 +1,6 @@
 ---
 title: 'Malevil'
 ---
-
-# Malevil
-
 ````
 [D# g F g]
 
@@ -19,12 +16,12 @@ všechno přikryl ale odhalil
 když jejich stopa zmizí
 a těch tisíc let byl otec velekněz a kmet
 
-R: za tu noc se toho mnoho zmeni
+Ref: za tu noc se toho mnoho zmeni
 treba kometa obletí nas svet
 nebo půlměsíc si ho cely podmani
 ale rano už z toho vůbc nic neni
 
-1. — jako 1
+3. — jako 1.
 …a pak byl chvíli rád že má klid
 
 4. Pak přišly spory nejprve s rozpaky
@@ -37,11 +34,11 @@ na plné zemi
 stále ten stejný sen
 A zvládat touhy nenávist a zášť
 
-1. Za hodně tisíc
+6. Za hodně tisíc
 se v práci usedět
 a večer popít
 a nebo vyprávět
 - co dneska hráli a nebo jak se máš
 
-Ref.
+Ref
 ````

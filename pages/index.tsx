@@ -16,7 +16,7 @@ const Index = ({}: Props) => {
     <>
       <Layout>
         <Head>
-          <title>{CMS_NAME} - O nás</title>
+          <title>{CMS_NAME}</title>
         </Head>
         <Container>
           <Intro />

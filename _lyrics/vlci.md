@@ -2,8 +2,6 @@
 title: 'Vlci'
 ---
 
-# Malevil
-
 ````
 [G - a] 
 
@@ -22,10 +20,12 @@ i když ví se celkem jistě že jde o vlnové délky
 5. Jsme tady / tedy / jako duše navždy?
 tohle už jsem hledal a má to více řešení 
 
-1. z tolika odpovědí si musí vybrat každý
+6. z tolika odpovědí si musí vybrat každý
 a život mu to — v zásadě nezmění 
 
-1. Tak čekám / zase / krom obvykle mnoho
+Mezihra
+
+7. Tak čekám / zase / krom obvykle mnoho
 a po zarostlé krajnici mě srny doprovází
 
 8. na zemi / sami / už si lidé nepomohou 

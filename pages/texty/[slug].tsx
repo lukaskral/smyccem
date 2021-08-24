@@ -1,23 +1,16 @@
 import { useRouter } from "next/router";
 import ErrorPage from "next/error";
 import Container from "../../components/container";
-import PostBody from "../../components/__blog/post-body";
 import Header from "../../components/header";
 import Layout from "../../components/layout";
-import {
-  getPostBySlug,
-  getAllPosts,
-  getLyricBySlug,
-  getAllLyrics,
-} from "../../lib/api";
+import { getLyricBySlug, getAllLyrics } from "../../lib/api";
 import Head from "next/head";
 import { CMS_NAME } from "../../lib/constants";
 import markdownToHtml from "../../lib/markdownToHtml";
-import PostType from "../../types/post";
 import React from "react";
-import PostHeader from "../../components/__blog/post-header";
 import PostTitle from "../../components/__blog/post-title";
 import LyricType from "../../types/lyric";
+import LyricBody from "../../components/__lyrics/lyric-body";
 
 type Props = {
   lyric: LyricType;
@@ -39,10 +32,10 @@ const Lyric = ({ lyric }: Props) => {
             <article className="mb-32">
               <Head>
                 <title>
-                  {lyric.title} | Next.js Blog Example with {CMS_NAME}
+                  {lyric.title} | {CMS_NAME}
                 </title>
               </Head>
-              <PostBody content={lyric.content} />
+              <LyricBody content={lyric.content} title={lyric.title} />
             </article>
           </>
         )}
