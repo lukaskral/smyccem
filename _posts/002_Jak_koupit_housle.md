@@ -1,5 +1,5 @@
 ---
-title: 'Jak koupit housle'
+title: 'Jak koupit housle?'
 excerpt: 'Nákupní poradce pro vaše první housle'
 date: '2021-06-02T09:35:07.322Z'
 coverImage: '/assets/blog/covers/005.jpeg'
@@ -9,7 +9,7 @@ author:
   picture: '/assets/blog/authors/tom.jpeg'
 ---
 
-Co jsou housle? Složitý rezonátor barokních dvarů vyrobaný ze dřeva. Je běžné, že se housle prodávají od majitele k majiteli, protože jejich hodnota časem neklesá, což u mnohha jiných nástrojů neplatí. Cena houslí obvykle vychází ze tří parametrů: 1. původ nástroje, 2. mechanické vlastnosti a 3. hudební kvality. 
+Co jsou housle? Složitý rezonátor barokních tvarů vyrobený ze dřeva. Je běžné, že se housle prodávají od majitele k majiteli, protože jejich hodnota časem neklesá, což u mnohha jiných nástrojů neplatí. Cena houslí obvykle vychází ze tří parametrů: 1. původ nástroje, 2. mechanické vlastnosti a 3. hudební kvality. 
 
 # Původ nástroje
 
