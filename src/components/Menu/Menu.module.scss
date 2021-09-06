@@ -43,4 +43,26 @@ header.menu {
             }
         }
     }
+
+    @media (max-width: 850px) {
+        .menu__logo {
+            margin: 0 0 16px 0;
+        }
+
+        .menu__container {
+            width: 100%;
+            nav ul {
+                display: flex;
+                flex-direction: row;
+
+                li {
+                    padding: 0 16px;
+
+                    &:first-child {
+                        padding-left: 0;
+                    }
+                }
+            }
+        }
+    }
 }
