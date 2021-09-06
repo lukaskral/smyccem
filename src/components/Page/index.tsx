@@ -40,6 +40,9 @@ const Page = ({title, bg, children, contentAlign}: PageProps) => {
                         styles['page__content--' + contentAlign]
                     )}
                 >
+                    <div className={styles['title-mobile']}>
+                        <h1>{title}</h1>
+                    </div>
                     {children}
                 </div>
             </div>

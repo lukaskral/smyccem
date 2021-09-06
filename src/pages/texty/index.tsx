@@ -3,6 +3,7 @@ import {getAllLyrics} from '../../../lib/api';
 import LyricType from '../../types/lyric';
 import Link from 'next/link';
 import Page from '../../components/Page';
+import styles from './Lyrics.module.scss';
 
 type Props = {
     lyrics: LyricType[],
@@ -11,7 +12,7 @@ type Props = {
 const Lyrics = ({lyrics}: Props) => {
     return (
         <Page title="Texty" bg="/assets/site/001.jpeg">
-            <ul>
+            <ul className={styles['lyrics']}>
                 {lyrics.map(lyric => (
                     <li>
                         <Link href={`/texty/${lyric.slug}`}>
