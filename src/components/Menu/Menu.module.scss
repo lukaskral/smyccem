@@ -1,0 +1,46 @@
+header.menu {
+    .menu__container {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .menu__logo {
+        margin-bottom: 48px;
+        a {
+            font-size: 24px;
+            color: #fff;
+            text-decoration: none;
+            text-transform: uppercase;
+        }
+    }
+
+    .menu__navigation {
+        nav {
+            margin: 0;
+            padding: 0;
+
+            ul {
+                display: flex;
+                flex-direction: column;
+                padding: 0;
+                margin: 0;
+                list-style: none;
+                li {
+                    a {
+                        padding: 8px 0;
+                        font-size: 18px;
+                        font-weight: 500;
+                        display: block;
+                        text-decoration: none;
+                        color: #fff;
+                        transition: color 0.24s;
+                    }
+
+                    &:hover a {
+                        color: #0ca4a5;
+                    }
+                }
+            }
+        }
+    }
+}

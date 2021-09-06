@@ -1,0 +1,106 @@
+.page {
+    display: grid;
+    grid-template-columns: 450px auto;
+    grid-template-rows: 1fr 1fr;
+    gap: 0px 0px;
+    grid-template-areas:
+        'title content'
+        'menu content';
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+
+    @media (max-width: 1200px) {
+        grid-template-columns: 350px auto;
+    }
+
+    @media (max-width: 960px) {
+        grid-template-columns: 250px auto;
+    }
+
+    @media (max-width: 850px) {
+        grid-template-columns: auto;
+        grid-template-areas:
+            'menu'
+            'title'
+            'content';
+
+        grid-template-rows: 32px auto auto;
+    }
+
+    .page__title {
+        grid-area: title;
+        padding: 48px;
+
+        h1 {
+            font-size: 72px;
+            font-weight: bold;
+            color: white;
+            opacity: 0.8;
+            box-sizing: border-box;
+
+            @media (max-width: 1200px) {
+                font-size: 64px;
+            }
+
+            @media (max-width: 960px) {
+                font-size: 48px;
+            }
+        }
+    }
+    .page__menu {
+        grid-area: menu;
+        padding: 48px;
+        align-self: flex-end;
+    }
+
+    .page__content {
+        grid-area: content;
+        padding: 48px;
+        overflow-y: scroll;
+        overflow-x: hidden;
+
+        /* width */
+        &::-webkit-scrollbar {
+            width: 8px;
+        }
+
+        /* Track */
+        &::-webkit-scrollbar-track {
+            background: rgb(37, 19, 19);
+        }
+
+        /* Handle */
+        &::-webkit-scrollbar-thumb {
+            background: rgb(95, 44, 3);
+        }
+
+        /* Handle on hover */
+        &::-webkit-scrollbar-thumb:hover {
+            background: rgb(180, 103, 1);
+        }
+        p {
+            font-size: 21px;
+            color: #fff;
+            max-width: 60ch;
+            line-height: 1.5;
+
+            @media (max-width: 1200px) {
+                font-size: 19px;
+            }
+
+            @media (max-width: 960px) {
+                font-size: 17px;
+            }
+        }
+
+        &.page__content--bottom {
+            align-self: flex-end;
+            justify-self: flex-start;
+        }
+    }
+}
