@@ -5,7 +5,7 @@ title: 'Slunce'
 [c a f g]
 1. Mezi půlnocí
 mezi půlnocí a dnem
-slunce sezbírá své věci poválené 
+slunce sesbírá své věci poválené 
 najde tenisky
 něco zapomene 
 a pak vyběhne 
