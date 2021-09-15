@@ -54,5 +54,5 @@ mám jen chvíli času a takhle ji kazím
 
 [B F a]
 Jak se to stalo, že po tom všem štěstí
-jsme došli až do cvíle, kdy se jen známe
+jsme došli až do chvíle, kdy se jen známe
 ````
