@@ -24,7 +24,7 @@ Kdo zítra z davu několikrát střelí?
 3. Z principu odmítám vládu práva.
 Z principu modlit se za změnu nebudu!
 Z pricipu rozumu a principu srdce
-jsem připraven vychcat se do stroje osudu.
+jsem připraven dívat se do tváře osudu.
 
 Ref 2. Kdo pozvedne prapor na kozím mostě?
 Kdo právo podřídí potřebám lidu?
