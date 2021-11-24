@@ -12,7 +12,7 @@ const Contact = () => {
                 </a>
             </p>
 
-            <h2>Zvučení</h2>
+            {/* <h2>Zvučení</h2> */}
             <p>
                 Pokud je to možné, hrajeme bez jakéhokoliv dozvučení, v prostorech jako jsou budovy
                 divadel, kostely, amfiteátry, galerie. Když je zvučení vyžadováno, hrajeme na jediný
