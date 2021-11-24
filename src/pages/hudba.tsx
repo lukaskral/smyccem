@@ -2,7 +2,7 @@ import Page from '../components/Page';
 
 const Music = () => {
     return (
-        <Page title="Hudba" bg="/assets/site/003.jpeg">
+        <Page title="Hudba" bg="/assets/site/005.jpeg">
             <iframe
                 width="560"
                 height="315"

@@ -16,9 +16,9 @@ const Menu = () => {
                             <li>
                                 <a href="/texty">Texty</a>
                             </li>
-                            <li>
+                            {/* <li>
                                 <a href="/blog">Blog</a>
-                            </li>
+                            </li> */}
                             <li>
                                 <a href="/kontakt">Kontakt</a>
                             </li>

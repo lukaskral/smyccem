@@ -1,5 +1,5 @@
 ---
-title: 'Nemajení'
+title: 'Nemajetní'
 ---
 ````
 [f - C# - b - C]

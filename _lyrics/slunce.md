@@ -2,7 +2,7 @@
 title: 'Slunce'
 ---
 ````
-[c a f g]
+[C a F G]
 1. Mezi půlnocí
 mezi půlnocí a dnem
 slunce sesbírá své věci poválené 
@@ -19,7 +19,7 @@ je v tom velká tíha
 kam jen dohlédne
 tma se rozestírá
 
-[a f g e  - f a f g]
+[a F G e  - F a F G]
 Pondělí je - mezi dvěma světy prám
 pomalý a rychlý - svět se roztáčí a syčí
 kola všech těch aut - a značky na svých tyčích

@@ -3,7 +3,7 @@ import Header from '../components/Menu';
 
 const Contact = () => {
     return (
-        <Page title="Kontakt" bg="/assets/site/005.jpeg" contentAlign="bottom">
+        <Page title="Kontakt" bg="/assets/site/002.jpeg" contentAlign="bottom">
             <p>tom.randus@gmail.com</p>
             <p>+420 724 023 901</p>
             <p>
