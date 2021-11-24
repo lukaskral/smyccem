@@ -14,23 +14,25 @@ Zvedněte prapory, probuďte ulici.
 Užijte síly, když nejde to slovy!
 
 [F a  - F e]
-Ref 1. Strhněte oponu, ať zvoní molotovy.
+Ref: Strhněte oponu, ať zvoní molotovy.
 A věnce panovníkům noste na hřbitovy.
 Mladí a vzdělaní jsou nových zemí solí.
 
 [F e] Kdo hodí první kámen do soukolí?
 Kdo zítra z davu několikrát střelí?
 
-3. Z principu odmítám vládu práva.
+3. jako 1.
+
+4. Z principu odmítám vládu práva.
 Z principu modlit se za změnu nebudu!
 Z pricipu rozumu a principu srdce
 jsem připraven dívat se do tváře osudu.
 
-Ref 2. Kdo pozvedne prapor na kozím mostě?
+Ref: Kdo pozvedne prapor na kozím mostě?
 Kdo právo podřídí potřebám lidu?
 Jsem mladý hlas Bosny, srdce mám v Bosně.
 Až pojedou tudy, taky tam budu.
 
-4. jako 1.
+5. jako 1.
 ````
 
