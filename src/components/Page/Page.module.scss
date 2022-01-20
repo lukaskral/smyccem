@@ -1,5 +1,12 @@
 .page {
     display: grid;
+    @media print {
+        display: block;
+        background: none !important;
+        * {
+            color: black !important;
+        }
+    }
     grid-template-columns: 450px auto;
     grid-template-rows: 1fr 1fr;
     gap: 0px 0px;
