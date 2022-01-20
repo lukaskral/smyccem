@@ -13,12 +13,17 @@
     right: 0;
     bottom: 0;
 
+    @media print {
+        display: block;
+    }
+
     h1 {
         font-size: 72px;
         font-weight: bold;
         color: white;
         opacity: 0.8;
         box-sizing: border-box;
+        margin-bottom: 24px;
 
         @media (max-width: 1200px) {
             font-size: 64px;
@@ -54,6 +59,10 @@
         padding: 48px;
 
         @media (max-width: 850px) {
+            display: none;
+        }
+
+        @media print {
             display: none;
         }
     }
@@ -124,6 +133,10 @@
     .title-mobile {
         padding-bottom: 48px;
         @media (min-width: 851px) {
+            display: none;
+        }
+
+        @media print {
             display: none;
         }
     }

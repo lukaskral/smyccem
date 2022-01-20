@@ -1,4 +1,8 @@
 header.menu {
+    @media print {
+        display: none;
+    }
+
     .menu__container {
         display: flex;
         flex-direction: column;
