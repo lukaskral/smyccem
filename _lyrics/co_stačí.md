@@ -1,10 +1,11 @@
 ---
 title: 'Co stačí'
 ---
-Život se dělí jenom na tři části
-před prací po práci no a pak v práci
 
-````
+**„Život se dělí jenom na tři části
+před prací po práci no a pak v práci”**
+
+```
 [d g B A]
 1. Statečný muž ten s mopem
 pro svoji rodinu podlahy máčí
@@ -17,7 +18,7 @@ jestli čas je ta řeka jak občas se řiká
 tak na tomhle místě se točí a vrací
 
 [g d F e B A]
-REF: přijede půlnoční - půlnoční rychlík 
+REF: přijede půlnoční - půlnoční rychlík
 a voda v kyblíku odráží neon
 svět je prý kulatý kulatý meloun
 vše co je kulaté dolů vrátí
@@ -47,4 +48,4 @@ a s penězi vydrží aspoň do pátku
 7. jako 4.
 
 REF.
-````
+```
