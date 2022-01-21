@@ -10,7 +10,7 @@ type LyricContentProps = {
 const LyricContent = ({content, title}: LyricContentProps) => {
     return (
         <Page title={title} bg="/assets/site/001.jpeg">
-            <h1>{title}</h1>
+            {/* <h1>{title}</h1> */}
             <div className={styles['lyric-content']} dangerouslySetInnerHTML={{__html: content}} />
             <br />
             <hr />
