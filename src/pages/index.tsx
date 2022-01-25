@@ -8,9 +8,11 @@ type Props = {
 const Index = ({}: Props) => {
     return (
         <Page title="Úvod" bg="/assets/site/000.jpeg" contentAlign="bottom">
-            <p>Smyčcem je šansonový dvojboj mezi punkem a filharmonií.</p>
+            <p>
+                <b>Trhni si smyčcem !</b> je šansonový dvojboj mezi punkem a filharmonií.
+            </p>
             <br />
-            <p>Jsme dva, hrajeme jen na 9 strun a celé se to sbalí do větší tašky.</p>
+            <p>Jsme dva, hrajeme jen na 9 strun a celé se to sbalí do jedné větší tašky.</p>
             <br />
             <p>
                 Hrajeme vlastní tvorbu, texty převážně na aktuální a literární témata. Formálně
