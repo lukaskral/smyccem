@@ -33,7 +33,7 @@ const HeadMeta = ({ pageTitle, description, ogImage }: HeadMetaProps) => {
       <meta name="msapplication-TileColor" content="#ffffff" />
       <meta name="msapplication-config" content="/static/favicon/browserconfig.xml" />
       <meta name="theme-color" content="#ffffff" />
-      <meta name="robots" content="noindex, nofollow" />
+      <meta name="robots" content="index, follow" />
       <meta name="theme-color" content="#ffcd00" />
     </Head>
   )
