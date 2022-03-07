@@ -29,7 +29,7 @@ vždyť vyrostou ve sporu o sebe samé
 
 [B F a]
 Jak se to stalo že po tom všem štěstí
-jsme došli až do chvíle, kdy se jen známe
+jsme došli až do chvíle kdy se jen známe
 
 
 
