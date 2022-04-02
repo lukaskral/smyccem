@@ -11,7 +11,7 @@ něco zapomene
 a pak vyběhne
 dveře nezavírá
 
-1. V půlce chodníku
+2. V půlce chodníku
 kousek od tramvají
 trochu poposkočí
 všechno celkem stíhá 
@@ -26,7 +26,7 @@ pomalý a rychlý - svět se roztáčí a syčí
 kola všech těch aut - a značky na svých tyčích
 ptáci zdraví chodce - každý je tak trochu sám
 
-1. Mezi půlnocí
+3. Mezi půlnocí
 mezi půlnocí a dnem
 slunce zastaví
 pak se kousek vrátí
