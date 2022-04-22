@@ -1,8 +1,9 @@
 ---
 title: 'Ukradli Marii'
 ---
-````
-[d F a B    B F d a]
+Předehra [h]
+
+[h D f# G    G D h f#]
 Ukradli Marii    
 z pomníku z náměstí
 kámen urazili
@@ -21,20 +22,19 @@ postel i stůl i byt
 a všichni zbylí
 jsou najednou bez lásky
 
-[B d g B a]
+[G h e G f#]
 za co nás trestáš vždyť bylo to skvělé 
 na celou věčnost ve slibu prodlýt
 k čemu se boudou teď ty děti modlit
 vždyť vyrostou ve sporu o sebe samé
 
-[B F a]
+[G D f#]
 Jak se to stalo že po tom všem štěstí
 jsme došli až do chvíle kdy se jen známe
 
+Solo
 
-
-
-[d F a B    B F d a]
+[h D f# G    G D h f#]
 Ukradli Marii...
 
 Kam usadí Marii
@@ -46,13 +46,15 @@ na chvíli vyřeší
 co na jejich náměstí
 stalo se předloni
 
-[B d g B a]
+[G h e G f#]
 ta chyba se šíří jak přízraky noci
 dřív šlo o to vyhrát teď stačí mi přežít
 jak před mnoha lety si svou cestu razím
 mám jen chvíli času a takhle ji kazím
 
-[B F a]
+[G D f#]
 Jak se to stalo, že po tom všem štěstí
 jsme došli až do chvíle, kdy se jen známe
+
+Solo
 ````
