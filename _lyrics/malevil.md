@@ -7,8 +7,8 @@ title: 'Malevil'
 1. Trochu si zašel 
 před městem objevil
 ukrytou cestu
-na zámek malevil
-pak žil tisíc let jako mnich jako nástupce nás všech
+na zámek Malevil
+tam žil tisíc let jako mnich jako nástupce nás všech
 
 2. Pak mrak jako stín
 všechno přikryl ale odhalil
@@ -17,15 +17,15 @@ když jejich stopa zmizí
 a těch tisíc let byl otec velekněz a kmet
 
 Ref: za tu noc se toho mnoho zmeni
-treba kometa obletí nas svet
-nebo půlměsíc si ho cely podmani
-ale rano už z toho vůbc nic neni
+treba kometa obletí náš svět
+nebo půlměsíc si ho celý podmaní
+ale ráno už z toho vůbec nic neni
 
 3. — jako 1.
 …a pak byl chvíli rád že má klid
 
 4. Pak přišly spory nejprve s rozpaky
-koně a praky a potom padáky
+koně a praky nakonec padáky
 a po válce zas nový blahobyt
 
 5. Ve dne se všemi 
@@ -38,7 +38,7 @@ A zvládat touhy nenávist a zášť
 se v práci usedět
 a večer popít
 a nebo vyprávět
-- co dneska hráli a nebo jak se máš
+- co hráli a nebo jak se máš
 
 Ref
 ````

@@ -12,7 +12,7 @@ obrázek neštěstí
 muži co zbyli
 tu mezereru nescelí
 
-a malí dospělí
+A malí dospělí
 jak mohou sami jít
 když neznámé síly
 bez jediné otázky
@@ -22,8 +22,8 @@ a všichni zbylí
 jsou najednou bez lásky
 
 [B d g B a]
-za co nás trestáš vždyť bylo to skvělé 
-na celou věčnost ve slibu prodlýt
+Za co nás trestáš vždyť bylo to skvělé 
+na celou věčnost ve slibu prodlít
 k čemu se boudou teď ty děti modlit
 vždyť vyrostou ve sporu o sebe samé
 

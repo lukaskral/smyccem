@@ -13,10 +13,11 @@ const LyricContent = ({content, title}: LyricContentProps) => {
             {/* <h1>{title}</h1> */}
             <div className={styles['lyric-content']} dangerouslySetInnerHTML={{__html: content}} />
             <br />
-            <hr />
+            <hr className="noprint" />
 
-            <em style={{color: 'white', fontStyle: 'italic'}}>
-                (Malá písmena značí akordy <b>Moll</b>, velká <b>Dur</b>)
+            <em style={{color: 'white', fontStyle: 'italic', float: 'right', opacity: '.6'}}>
+                (Malá písmena značí akordy <b>Moll</b>, velká <b>Dur</b>
+                <span className="noprint">, stránku ze tisknout</span>)
             </em>
         </Page>
     );

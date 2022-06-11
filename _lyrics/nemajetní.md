@@ -10,11 +10,11 @@ a jen čekali co čas jim dá
 
 Chraň dobrých lidí hloupých skutků
 chraň ty co špatně vychovali
-chraň takové co jako malí
+chraň takové jenž jako malí
 co uvidí to musí mít 
 
 Chraň panno Marja malé lidí
-jenž nevidí svět jak se točí
+ti nevidí svět jak se točí
 a vědí jen co řekli jiní
 a věrní jsou až k bezvědomí
 
@@ -47,7 +47,7 @@ a že úspěšní nejsou ale jsou dobří
 Chraň Maria panno malé děti
 ty nakonec to všechno zdědí
 a namísto vlastních odpovedí
-se na ně dluhy věků lepí 
+se na ně dlouhé dluhy lepí 
 
 Chraň ty co byli velkolepí
 a pak najednou velká smůla

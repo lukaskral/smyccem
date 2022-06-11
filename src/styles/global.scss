@@ -14,3 +14,9 @@ p {
 a {
     color: #3292ca;
 }
+
+.noprint {
+    @media print {
+        display: none;
+    }
+}

@@ -5,7 +5,7 @@ title: 'Co stačí'
 **„Život se dělí jenom na tři části
 před prací po práci no a pak v práci”**
 
-```
+````
 [d g B A]
 1. Statečný muž ten s mopem
 pro svoji rodinu podlahy máčí
@@ -14,13 +14,13 @@ když tohle nestačí, no tak co stačí?
 
 2. V podchodu lístky sbírat
 po kamenné střeše se prochází ptáci
-jestli čas je ta řeka jak občas se řiká
+jestli čas je ta řeka jak občas se říká
 tak na tomhle místě se točí a vrací
 
 [g d F e B A]
 REF: přijede půlnoční - půlnoční rychlík
 a voda v kyblíku odráží neon
-svět je prý kulatý kulatý meloun
+svět je prý veliký kulatý meloun
 vše co je kulaté dolů vrátí
 
 3. Kdy už se vítr ztiší
@@ -48,4 +48,4 @@ a s penězi vydrží aspoň do pátku
 7. jako 4.
 
 REF.
-```
+````

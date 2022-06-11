@@ -2,7 +2,7 @@
 title: 'Stalo se vám'
 ---
 ````
-[d# g F d]
+[d# g F D]
 
 2x Stalo se vám,
 že někde v půlce filmu
@@ -32,13 +32,14 @@ když se po práci někde v podnájmu
 snažite milovat věcně a bez zájmu
 
 5. Kdo se nepřidá
-když se venku režim střídá
-a nebo když je velká bída
+když se vám směje celá třida
+nebo když se venku režim střídá
+hm hm hm hm
 
 Stalo se vám, že někde v půlce filmu...
 Stalo se vám, že někde v půlce života...
 Stalo se vám, že někde v půlce mrknutí jste oči znovu neotevřeli?
 
-6. To je chladný...
+1. To je chladný...
 
 ````

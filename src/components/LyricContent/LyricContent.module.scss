@@ -9,6 +9,9 @@
     }
     pre {
         font-size: 21px;
+        @media print {
+            font-size: 17px;
+        }
         color: #fff;
         max-width: 60ch;
         line-height: 1.5;
