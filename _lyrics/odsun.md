@@ -6,8 +6,8 @@ title: 'Odsun'
 ````
 
 Od [E7] sun
-kdo ví kdo stavěl vašich dům [F#]
-kdo mával z okna souse [f#] dům 
+kdo ví kdo stavěl vašich dům [F#][f#][F#]
+kdo mával z okna souse dům [f#][F#]
 kdo sázel stromy pro váš sad [g#]
 
 kdo [f#] ví,
