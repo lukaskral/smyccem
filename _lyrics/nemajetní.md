@@ -66,15 +66,27 @@ a svět se stále komplikuje
 
 *REF:*
 
-[C# - #G] (bridge back)
+[e - g]
+Ať jednou vše vyjde jak slunce z tý zimy
+a všichni se potkají ve stejném ráji
+bohatí chudí a my mezi nimi
+každému stejnou peřinu dají
 
-Počítej s námi do desíti
-než pavouk svoji mouchu chytí
-než přiváže ji pevnou nití
-k pavučině za knihami
-ona se z uzlů vysvobodí
-a vytáhne i zvadlá křidla
-pak jeden pokus, druhý třetí
-a povede se - vzduch ji drží
-a ona zase může - letí
+a každému ukáží kde dělal chyby
+a dají mu kakao, sušenky prosté
+andělé lidi a my mezi nimi
+kteří jsou doma a kteří jsou hosté
+
+A všichni si zaslouží svou cestu najít
+ať nikdo se bebudí ze spaní hrůzou
+ať obálky nechodí
+a ať nikdo nezvoní
+a vítr se ztiší a mrak kouká zajít
+
+chraň marja pano nemajetné
+chraň marja pano nemajetné
+chraň marja pano nemajetné
+
+jdi zblodilé ovce do strání najít
+
 ````
