@@ -87,6 +87,6 @@ chraň marja pano nemajetné
 chraň marja pano nemajetné
 chraň marja pano nemajetné
 
-jdi zblodilé ovce do strání najít
+jdi zblodilé ovce ve stráních najít
 
 ````
