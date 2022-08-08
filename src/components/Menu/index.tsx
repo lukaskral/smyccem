@@ -5,7 +5,7 @@ const Menu = () => {
         <header className={styles['menu']}>
             <div className={styles['menu__container']}>
                 <div className={styles['menu__logo']}>
-                    <a href="/">Smyčcem</a>
+                    <a href="/">Trhni si smyčcem !</a>
                 </div>
                 <div className={styles['menu__navigation']}>
                     <nav>
