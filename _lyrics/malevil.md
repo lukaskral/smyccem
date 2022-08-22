@@ -16,10 +16,10 @@ všechno přikryl ale odhalil
 když jejich stopa zmizí
 a těch tisíc let byl otec velekněz a kmet
 
-Ref: za tu noc se toho mnoho zmeni
-treba kometa obletí náš svět
+Ref: za tu noc se toho mnoho změní
+třeba kometa obletí náš svět
 nebo půlměsíc si ho celý podmaní
-ale ráno už z toho vůbec nic neni
+ale ráno už z toho vůbec nic není
 
 3. — jako 1.
 …a pak byl chvíli rád že má klid

@@ -9,7 +9,7 @@ const Index = ({}: Props) => {
     return (
         <Page title="Úvod" bg="/assets/site/000.jpeg" contentAlign="bottom">
             <p>
-                <b>Trhni si smyčcem !</b> je šansonový dvojboj mezi punkem a filharmonií.
+                <b>Trhni si smyčcem</b> je šansonový dvojboj mezi punkem a filharmonií.
             </p>
             <br />
             <p>Jsme dva, hrajeme jen na 9 strun a celé se to sbalí do jedné větší tašky.</p>

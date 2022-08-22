@@ -10,15 +10,15 @@ já však slyším zvuky ulice stejně ve dne stejně jako v noci
 Venku prší / voda padá do ulic
 po třech týdnech sucha *vážně skvělý pocit*
 
-2. Jsem starý / ovšem kdo je dneska mladý
+2. Kolem věci, co jsme domů nanosili
+jak může člověk chtít **tak velké množství hmoty**?
+je snadné si přát víc a v každou možnou chvíli
+porovnávat s ostatními mobily a boty
+
+3. Jsem starý / ovšem kdo je dneska mladý
 ve světě stokrát rozděleném na rozumné celky
 A **krása / láska** jsou pořád stejně tady
 i když ví se celkem jistě že jde o vlnové délky 
-
-3. Ty věci, co jsme domů nanosili
-jak může člověk chtít **tak velké množství hmoty**?
-je standné něco chtít a v každou možnou chvíli
-srovnávat si s ostaními přístroje a boty
 
 4. Tělo je chrám / jak víš / a omítka zněj padá
 s každou další sklenicí je těžší vyjít schody

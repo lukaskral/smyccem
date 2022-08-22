@@ -25,24 +25,24 @@ vše co je kulaté dolů vrátí
 
 3. Kdy už se vítr ztiší
 kdo najde v moři výpusti zátku
-Kdo z prázdných údolí pohoří ztvoří
+Kdo z prázdných údolí pohoří stvoří
 a k dlužné faktuře vykouzlí vratku
 
 4. Utíkej autobus čeká
 Jak léta jdou tak lidé se ztrácí
-jestli čas je ta řeka jak občas se řiká
+jestli čas je ta řeka jak občas se říká
 tak na tomhle místě se točí a vrací
 
 REF.
 
-5. Statetčný muž ten s mopem
+5. Statečný muž ten s mopem
 pro svoji rodinu podlahu máčí
 rok už se přetočil, studený leden
 když tohle nestačí, no tak co svedem?
 
 6. Kdy už se vítr ztiší
 kdo najde v moři výpusti zátku
-kdo z prázných údolí pohoři ztvoří
+kdo z prázdných údolí pohoří stvoří
 a s penězi vydrží aspoň do pátku
 
 7. jako 4.

@@ -25,7 +25,7 @@ Kdo zítra z davu několikrát střelí?
 
 4. Z principu odmítám vládu práva.
 Z principu modlit se za změnu nebudu!
-Z pricipu rozumu a principu srdce
+Z principu rozumu a principu srdce
 jsem připraven dívat se do tváře osudu.
 
 Ref: Kdo pozvedne prapor na kozím mostě?

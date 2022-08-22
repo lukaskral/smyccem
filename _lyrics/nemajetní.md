@@ -13,7 +13,7 @@ chraň ty co špatně vychovali
 chraň takové jenž jako malí
 co uvidí to musí mít 
 
-Chraň panno Marja malé lidí
+Chraň panno Maria malé lidí
 ti nevidí svět jak se točí
 a vědí jen co řekli jiní
 a věrní jsou až k bezvědomí
@@ -46,7 +46,7 @@ a že úspěšní nejsou ale jsou dobří
 [f - C# - b - C]
 Chraň Maria panno malé děti
 ty nakonec to všechno zdědí
-a namísto vlastních odpovedí
+a namísto vlastních odpovědí
 se na ně dlouhé dluhy lepí 
 
 Chraň ty co byli velkolepí
@@ -78,14 +78,14 @@ andělé lidi a my mezi nimi
 kteří jsou doma a kteří jsou hosté
 
 A všichni si zaslouží svou cestu najít
-ať nikdo se bebudí ze spaní hrůzou
+ať nikdo se nebudí ze spaní hrůzou
 ať obálky nechodí
 a ať nikdo nezvoní
 a vítr se ztiší a mrak kouká zajít
 
-chraň marja pano nemajetné
-chraň marja pano nemajetné
-chraň marja pano nemajetné
+chraň Maria panno nemajetné
+chraň Maria panno nemajetné
+chraň Maria panno nemajetné
 
 jdi zblodilé ovce ve stráních najít
 

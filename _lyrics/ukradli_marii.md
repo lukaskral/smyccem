@@ -12,7 +12,7 @@ střepy tam nechali
 ze svaté rodiny
 obrázek neštěstí
 muži co zbyli
-tu mezereru nescelí
+tu mezeru nescelí
 
 A malí dospělí
 jak mohou sami jít

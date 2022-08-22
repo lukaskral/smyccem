@@ -21,7 +21,7 @@ a kdo chce opravdu býti milován
 
 3. Kdo má v rukávu vždycky
 prýma trik proti banditům nebo osudu
-a když se náhodou svlýkne na scéně
+a když se náhodou svlíkne na scéně
 neudělá ostudu
 
 Stalo se vám, že někde v půlce filmu...
@@ -32,7 +32,7 @@ když se po práci někde v podnájmu
 snažite milovat věcně a bez zájmu
 
 5. Kdo se nepřidá
-když se vám směje celá třida
+když se vám směje celá třída
 nebo když se venku režim střídá
 hm hm hm hm
 

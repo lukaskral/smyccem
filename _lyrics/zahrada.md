@@ -8,7 +8,7 @@ B: [d C - F G - a e - B C]
 *A* svázala si svoje vlasy
 na práci a na počasí
 nedbala a z divočiny
-zahradu nám vyprosila
+zahradu nám vytvořila
 
 *A* Když se slunce k zemi sklání
 po dlouhém dni přijdu za ní
@@ -21,7 +21,7 @@ jeřabiny - květy máku
 máku květy - peří ptáků
 
 *A* Soumrak vtéká do zahrady
-plnný pohár denní pěny
+plný pohár denní pěny
 unavené lampa chrání
 chladné peřiny, bílé stěny
 
@@ -32,7 +32,7 @@ housle tvoje, housle moje
 dvoje housle, stránky knihy
 stránky - Skácel u studánky
 
-*B* A je to křechký zázrak léta
+*B* A je to křehký zázrak léta
 jako věčnost v jednu chvíli
 jednou znovu nebudeme
 tak jak kdysi jsme nebyli
@@ -42,7 +42,7 @@ na práci a na počasí
 nedbala a z divočiny
 zahradu nám vyhrabala
 
-*B* vyhrabala vysázelela
+*B* vyhrabala vysázela
 vysázela vysklízela
 vysklízela vynosila
 vynosila vy-pro-si-la (d)
