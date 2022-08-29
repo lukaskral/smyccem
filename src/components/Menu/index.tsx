@@ -11,6 +11,9 @@ const Menu = () => {
                     <nav>
                         <ul>
                             <li>
+                                <a href="/">Úvod</a>
+                            </li>
+                            <li>
                                 <a href="/hudba">Hudba</a>
                             </li>
                             <li>

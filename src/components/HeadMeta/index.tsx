@@ -12,7 +12,7 @@ const HeadMeta = ({ pageTitle, description, ogImage }: HeadMetaProps) => {
       <meta name="viewport" content="width=device-width, initial-scale=1" />
       <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
       <meta charSet="utf-8" />
-      <title>{pageTitle && pageTitle + " - "}Trhni si smyčcem</title>
+      <title>{(pageTitle && pageTitle + " - ") + "Trhni si smyčcem"}</title>
       <meta property="og:title" content={pageTitle} />
       <meta name="description" content={description} />
       <meta property="og:description" content={description} />
