@@ -7,7 +7,7 @@ type Props = {
 
 const Index = ({}: Props) => {
     return (
-        <Page title="Úvod" bg="/assets/site/000.jpeg" contentAlign="bottom">
+        <Page title="" bg="/assets/site/000.jpeg" contentAlign="bottom">
             <p>
                 <b>Trhni si smyčcem</b> je šansonový dvojboj mezi punkem a filharmonií.
             </p>
