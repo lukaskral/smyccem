@@ -3,6 +3,7 @@ import Script from 'next/script';
 import {useRouter} from 'next/router';
 import {GTM_ID, pageview} from '../utils/gtm';
 import {AppProps} from 'next/app';
+import '../styles/global.scss';
 
 function MyApp({Component, pageProps}: AppProps) {
     const router = useRouter();
