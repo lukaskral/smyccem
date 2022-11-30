@@ -9,15 +9,14 @@ const Index = ({}: Props) => {
     return (
         <Page title="" bg="/assets/site/000.jpeg" contentAlign="bottom">
             <p>
-                <b>Trhni si smyčcem</b> je šansonový dvojboj mezi punkem a filharmonií.
+                <b>Trhni si smyčcem</b> je komorní těleso mezi punkem a filharmonií.
             </p>
             <br />
-            <p>Jsme dva, hrajeme jen na 9 strun a celé se to sbalí do jedné větší tašky.</p>
-            <br />
             <p>
-                Hrajeme vlastní tvorbu, texty převážně na aktuální a literární témata. Formálně
-                spadáme pod magický realismus, ale ještě nám nevolali. Hrajeme v akusticky a nebo
-                jinak zajímavých prostorech, mezi skvělými lidmi nebo v přírodě.
+                Hrajeme vlastní písně. Je nás 6 a máme klasické hudební nástroje. Nejlépe se nám
+                vystupuje mezi skvělými lidmi v zajímavých prostorech a v přírodě. Naše písně
+                reflektují sociální, filosofická a zahradnická témata. Patříme pod magický
+                realismus.
             </p>
         </Page>
     );
