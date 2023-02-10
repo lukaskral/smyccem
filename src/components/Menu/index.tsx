@@ -17,7 +17,7 @@ const Menu = () => {
                                 <a href="/hudba">Hudba</a>
                             </li>
                             <li>
-                                <a href="/texty">Texty</a>
+                                <a href="/texty">Texty s akordy</a>
                             </li>
                             {/* <li>
                                 <a href="/blog">Blog</a>
