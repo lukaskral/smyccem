@@ -14,10 +14,8 @@ const Lyrics = ({lyrics}: Props) => {
         <Page title="Texty" bg="/assets/site/001.jpeg">
             <ul className={styles['lyrics']}>
                 {lyrics.map(lyric => (
-                    <li>
-                        <Link href={`/texty/${lyric.slug}`}>
-                            <a>{lyric.title}</a>
-                        </Link>
+                    <li key={lyric.slug}>
+                        <Link href={`/texty/${lyric.slug}`}>{lyric.title}</Link>
                     </li>
                 ))}
             </ul>

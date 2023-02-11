@@ -1,3 +1,4 @@
+import Link from 'next/link';
 import styles from './Menu.module.scss';
 
 const Menu = () => {
@@ -5,25 +6,22 @@ const Menu = () => {
         <header className={styles['menu']}>
             <div className={styles['menu__container']}>
                 <div className={styles['menu__logo']}>
-                    <a href="/">Trhni si smyčcem</a>
+                    <Link href="/">Trhni si smyčcem</Link>
                 </div>
                 <div className={styles['menu__navigation']}>
                     <nav>
                         <ul>
                             <li>
-                                <a href="/">Úvod</a>
+                                <Link href="/">Úvod</Link>
                             </li>
                             <li>
-                                <a href="/hudba">Hudba</a>
+                                <Link href="/hudba">Hudba</Link>
                             </li>
                             <li>
-                                <a href="/texty">Texty s akordy</a>
+                                <Link href="/texty">Texty s akordy</Link>
                             </li>
-                            {/* <li>
-                                <a href="/blog">Blog</a>
-                            </li> */}
                             <li>
-                                <a href="/kontakt">Kontakt</a>
+                                <Link href="/kontakt">Kontakt</Link>
                             </li>
                         </ul>
                     </nav>
