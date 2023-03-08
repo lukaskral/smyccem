@@ -2,7 +2,7 @@
 title: 'Stalo se vám'
 ---
 ````
-[d# g F D]
+[c G# B g]
 
 2x Stalo se vám,
 že někde v půlce filmu
@@ -40,6 +40,23 @@ Stalo se vám, že někde v půlce filmu...
 Stalo se vám, že někde v půlce života...
 Stalo se vám, že někde v půlce mrknutí jste oči znovu neotevřeli?
 
-1. To je chladný...
+A Tady se dělí film na 2 části
+v té první jsem věděl, že všechno chápu
+ale čím dál víc vidím, jak strašně se mýlím
+o co tu běží v téhleté chvíli?
+
+Kdo to tu vede a kam máme dojít
+netuším ani zda druzí to vědí
+nevím, co chci a nevím, co hledám
+ale už mi tu dávají 100 odpovědí
+
+A na samém konci se podlaha zvedá
+jak stěna ze dřeva, jak cílová páska
+jak poslední scéna, co o tom víme
+jsem celkem zvědav, no uvidíme
+
+Stalo se vám, že někde v půlce filmu...
+Stalo se vám, že někde v půlce života...
+Stalo se vám, že někde v půlce mrknutí jste oči znovu neotevřeli?
 
 ````
