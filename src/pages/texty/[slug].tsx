@@ -3,7 +3,6 @@ import ErrorPage from 'next/error';
 import {getLyricBySlug, getAllLyrics} from '../../../lib/api';
 import markdownToHtml from '../../../lib/markdownToHtml';
 import React from 'react';
-import PostTitle from '../../components/Blog/post-title';
 import LyricType from '../../types/lyric';
 import LyricContent from '../../components/LyricContent/';
 
@@ -19,7 +18,7 @@ const Lyric = ({lyric}: Props) => {
     return (
         <>
             {router.isFallback ? (
-                <PostTitle>Loading…</PostTitle>
+                <div>Loading…</div>
             ) : (
                 <>
                     <LyricContent content={lyric.content} title={lyric.title} />

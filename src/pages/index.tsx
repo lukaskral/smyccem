@@ -1,11 +1,6 @@
-import Post from '../types/post';
 import Page from '../components/Page';
 
-type Props = {
-    allPosts: Post[],
-};
-
-const Index = ({}: Props) => {
+const Index = () => {
     return (
         <Page title="" bg="/assets/site/000.jpeg" contentAlign="bottom">
             <p>
