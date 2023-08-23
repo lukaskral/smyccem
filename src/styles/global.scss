@@ -20,3 +20,10 @@ a {
         display: none;
     }
 }
+
+.printonly {
+    display: none;
+    @media print {
+        display: inline;
+    }
+}

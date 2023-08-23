@@ -8,12 +8,21 @@
         font-style: italic;
     }
     pre {
-        font-size: 21px;
+        width: 100%;
+        font-size: 17px;
+        column-count: 2;
         @media print {
-            font-size: 17px;
+       
+            max-width: auto;
+            line-height: 1;
+            code {
+                white-space: pre-wrap;
+                font-size: 14px; 
+                line-height: 1;
+            }
         }
         color: #fff;
-        max-width: 60ch;
+   
         line-height: 1.5;
         margin-top: 24px;
 
