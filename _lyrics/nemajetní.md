@@ -87,6 +87,6 @@ chraň Maria panno nemajetné
 chraň Maria panno nemajetné
 chraň Maria panno nemajetné
 
-jdi zblodilé ovce ve stráních najít
+jdi zbloudilé ovce ve stráních najít
 
 ````
