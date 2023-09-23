@@ -1,5 +1,4 @@
 import Page from '../components/Page';
-import Header from '../components/Menu';
 
 const Contact = () => {
     return (
@@ -8,7 +7,7 @@ const Contact = () => {
             <p>+420 724 023 901</p>
             <br />
             <p>
-                <a href="https://www.youtube.com/@trhnisismyccem7671">Youtube</a>
+                <a href="https://www.youtube.com/@smyccem">Youtube</a>
             </p>
             <br />
             <p>
