@@ -3,16 +3,21 @@ title: 'Kino'
 ---
 > S laskavým dovolením kapely Zahranice (Tomáš Sýkora, Adam Konečný)
 ````
+[c f G# B C]
 *1.* Na plátně kina běží titulky,
 já svírám ruku holky s drdůlky,
+[C f G# B g D#]
 přes patnáct už mi bylo - mě je víc
 zhruba tak o měsíc.
 
+[... f G# B C]
 V příšeří sálu oba mžouráme
 a hlavou se nám honí to samé,
+[C f G# B C]
 jestli to upocené má snad být
 ten onen bájný cit.
 
+[C e h a]
 *REF* My jsme to viděli,
 jak to má vypadat,
 jaká že muzika
