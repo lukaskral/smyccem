@@ -2,7 +2,7 @@
 title: 'V polích'
 ---
 ````
-c f C# c 
+c f C# c
 
 1. Asi zvládla bych i napít
 dolít olej do soukolí
@@ -23,7 +23,7 @@ až ke zprávám dlouhým dennín
 zklidit ze stolu i z hlavy
 celé roky zůstat krásná
 domov zdobit hosty bavit
-odpovědět jsem tak šťastná G7
+odpovědět jsem tak G# šťastná G
 
 c f C# c 
 REF: Dneska se půjdu projít v polích
@@ -45,7 +45,7 @@ těžko říct co jsem jí řekla
 asi zase zas to samé
 že to celé tak ňák plyne
 a ona na to asi řekla
-že už nebude to jiné G7 G#7
+že už nebude to G# jiné G
 
 c# f# D c# 
 jenom jedna slza tekla
@@ -57,7 +57,7 @@ h c#
 A dneska nezvládnul jsi přijít
 a zítra nezvládneš se svěřit
 a já můžu ti dál vařit
-ale nebudu ti věři G#7
+ale nebudu ti A věřit G#
 
 c# f# D c#
 *REF...*
@@ -65,7 +65,8 @@ c# f# D c#
 h c#
 Když se nechtějí a neví
 proč si slíbili že budou
-jeden prodruhého svoji
+jeden prodruhého svoji A G#
+
 g# c#
 dnes se půjdu projít v polích
 
