@@ -14,7 +14,7 @@ zhruba tak o měsíc.
 V příšeří sálu oba mžouráme
 a hlavou se nám honí to samé,
 [C f G# B C]
-jestli to upocené má snad být
+jestli to ustrašené má snad být
 ten onen bájný cit.
 
 [C e h a]
