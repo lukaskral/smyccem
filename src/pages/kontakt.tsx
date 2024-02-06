@@ -1,3 +1,4 @@
+import Link from 'next/link';
 import Page from '../components/Page';
 
 const Contact = () => {
@@ -28,7 +29,7 @@ const Contact = () => {
             <br />
             <p>
                 Na festivalech, lidových slavnostech a v klubech zvučíme, zde je{' '}
-                <a href="/static/Trhni si smyčcem - stage plan.png">schéma zapojení</a>. .
+                <Link href="/static/trhni-si-smyccem-stage-plan.png">schéma zapojení</Link>.
             </p>
         </Page>
     );
