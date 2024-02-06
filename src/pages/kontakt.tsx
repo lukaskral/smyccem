@@ -20,12 +20,15 @@ const Contact = () => {
                 <a href="https://www.instagram.com/smyccem/?hl=cs">Instagram</a>
             </p>
             <br />
-            {/* <h2>Zvučení</h2> */}
+
             <p>
-                Pokud je to možné, hrajeme bez jakéhokoliv dozvučení, v prostorech jako jsou budovy
-                divadel, kostely, amfiteátry, galerie. Když je zvučení vyžadováno, hrajeme na jediný
-                velkomembránový kondenzátorový mikrofon kardioidní charakteristiky s
-                předzesilovačem.
+                Dokážeme hrát bez jakéhokoliv dozvučení, ve vhodných prostorech jako jsou budovy
+                divadel, kostely, galerie.
+            </p>
+            <br />
+            <p>
+                Na festivalech, lidových slavnostech a v klubech zvučíme, zde je{' '}
+                <a href="/static/Trhni si smyčcem - stage plan.png">schéma zapojení</a>. .
             </p>
         </Page>
     );
