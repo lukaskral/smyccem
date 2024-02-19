@@ -29,7 +29,7 @@ const Contact = () => {
             <br />
             <p>
                 Na festivalech, lidových slavnostech a v klubech zvučíme, zde je{' '}
-                <Link href="/static/trhni-si-smyccem-stage-plan.png">schéma zapojení</Link>.
+                <Link href="/static/trhni-si-smyccem-stage-plan.jpeg">schéma zapojení</Link>.
             </p>
         </Page>
     );

@@ -12,13 +12,13 @@ const HeadMeta = ({ pageTitle, description, ogImage }: HeadMetaProps) => {
       <meta name="viewport" content="width=device-width, initial-scale=1" />
       <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
       <meta charSet="utf-8" />
-      <title>{(pageTitle && pageTitle + " - ") + "Trhni si smyčcem"}</title>
+      <title>{(pageTitle && pageTitle + ' - ') + 'Trhni si smyčcem'}</title>
       <meta property="og:title" content={pageTitle} />
       <meta name="description" content={description} />
       <meta property="og:description" content={description} />
       <meta property="og:image" content={ogImage ? ogImage : '/static/og-images/index.jpg'} />
       <meta name="fb:app_id" content="518936135263185" />
-      <meta property="og:url" content='https://smyccem.cz' />
+      <meta property="og:url" content="https://smyccem.cz" />
       <meta name="author" content="Trhni si smyčcem" />
       <meta property="og:site_name" content="Trhni si smyčcem" />
       <meta property="og:type" content="website" />
