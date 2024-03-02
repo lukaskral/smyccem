@@ -14,6 +14,7 @@ const LyricContent = ({ content, title, youtube }: LyricContentProps) => {
       {/* <h1>{title}</h1> */}
       {youtube && (
         <iframe
+          className="noprint"
           width="560"
           height="315"
           src={youtube}
