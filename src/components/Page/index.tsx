@@ -8,16 +8,18 @@ export type PageProps = {
   children: React.ReactNode
   bg?: string
   contentAlign?: 'bottom' | 'center' | 'top'
+  opacity1?: string
+  opacity2?: string
 }
 
-const Page = ({ title, bg, children, contentAlign }: PageProps) => {
+const Page = ({ title, bg, children, contentAlign, opacity1, opacity2 }: PageProps) => {
   return (
     <>
       <HeadMeta pageTitle={title} />
       <div
         className={styles['page']}
         style={{
-          background: bg && 'linear-gradient(45deg, rgba(0,0,0,0.3) 0%, rgba(0,0,0,0.1) 100%), url(' + bg + ')',
+          background: bg && 'linear-gradient(45deg, rgba(0,0,0,' + (opacity1 || '0.3') + ') 0%, rgba(0,0,0,' + (opacity2 || '0.1') + ') 100%), url(' + bg + ')',
           backgroundSize: 'cover',
           backgroundPosition: 'center',
         }}

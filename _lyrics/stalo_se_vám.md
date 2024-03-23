@@ -29,7 +29,7 @@ Stalo se vám, že někde v půlce života...
 
 4. Kdo vám potajmu drží palce
 když se po práci někde v podnájmu
-snažite milovat věcně a bez zájmu
+snažíte milovat věcně a bez zájmu
 
 5. Kdo se nepřidá
 když se vám směje celá třída

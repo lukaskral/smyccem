@@ -3,16 +3,18 @@
         font-size: 48px;
         margin-bottom: 24px;
     }
-
-    & > p {
-        font-style: italic;
+    blockquote p {
+        font-size: 11px;
     }
     pre {
         width: 100%;
         font-size: 17px;
-        column-count: 2;
+        @media (min-width: 960px) {
+            column-count: 2;
+        }
+
         @media print {
-       
+            column-count: 2;
             max-width: auto;
             line-height: 1;
             code {

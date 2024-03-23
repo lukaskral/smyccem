@@ -21,7 +21,10 @@ třeba kometa obletí náš svět
 nebo půlměsíc si ho celý podmaní
 ale ráno už z toho vůbec nic není
 
-3. — jako 1.
+3. Trochu si zašel 
+před městem objevil
+ukrytou cestu
+na zámek Malevil
 …a pak byl chvíli rád že má klid
 
 4. Pak přišly spory nejprve s rozpaky
@@ -38,7 +41,7 @@ A zvládat touhy nenávist a zášť
 se v práci usedět
 a večer popít
 a nebo vyprávět
-- co hráli a nebo jak se máš
+– co hráli a nebo jak se máš
 
 Ref
 ````

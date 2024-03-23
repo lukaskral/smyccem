@@ -2,16 +2,16 @@
 title: 'Bílá dodávka'
 ---
 ````
-- chtějí tě dostat, pravda je prostá, zavři si oči, počítej do sta.
+– chtějí tě dostat, pravda je prostá, zavři si oči, počítej do sta.
 
-- 1, 2, 3, 4 - v ulici náhle všechno zmizí
-- 5 a 6 a ještě 7 - bílá dodávka přijede před dům
-- 8, 9, 10, a jedna - Ty strnule čekáš a únosce jedná
-- Dvánáct, řináct, čtrnáct a patnác - utíkáš před tím - Podolí, Pankrác
+1, 2, 3, 4 – v ulici náhle všechno zmizí
+5 a 6 a ještě 7 – bílá dodávka přijede před dům
+8, 9, 10, a jedna – Ty strnule čekáš a únosce jedná
+Dvanáct, třináct, čtrnáct a patnáct – utíkáš před tím, Podolí, Pankrác
 
---Sleduje tě bílá dodávka--
+Sleduje tě bílá dodávka!
 
-------
+---
 
 [d a b a]
 
@@ -25,29 +25,31 @@ dýcháš tak rychle že srdce ti skáče
 až k tomuhle bodu tvůj rod uměl přežít
 na poslední větvi jsi to poslední ptáče
 
-**--Sleduje tě bílá dodávka--**
+Sleduje tě bílá dodávka!
 
-Schováš se do stínu nohy si skřižíš
+Schováš se do stínu nohy si zkřížíš
 ve dne jsi páv v noci máš smůlu
 tam mezi auty na kovové mříži
-počítaš šance a spočítáš nulu
+počítáš šance a spočítáš nulu
 
 Kam odcházíš lásko chybíš mi věř mi
 **Bílá dodávka s posuvnými dveřmi**
 Za okny v záclonách rodinná štěstí
 **a venku pravidla zdvižených pěstí**
 
-**--Sleduje tě bílá dodávka--**
+Sleduje tě bílá dodávka!
+
+--- Mezihra
 
 Poposedni stranou a neztrácej víru
 když zavřeš si oči bude to krásné
 nad tebou se skloní tři andělé míru
 daj' ti pytel na hlavu, ulice zhasne
 
-------
+---
 
 [d c d]
-Jsi chmíří májového květu
+Jsi chmýří májového květu
 [d c a d]
 srnka malá, chytit ale nechat žít
 [d a f a]
@@ -65,11 +67,11 @@ zhrublými prsty z mnoha loupeží
 bílá krajka šatů svatebních
 a ráno na pomoc ti neběží
 
-------
+---
 
 Vraťte se do tmy přízraky a strachy
 S prvním ranním mopedem s první ranní tramvají
-vraťte se do dmy ať svět svělem zaručí
+vraťte se do dmy ať svět světlem zaručí
 denní bezpečí
 
 Vraťte se do tmy tam kde ste se vzali
@@ -92,10 +94,10 @@ pravda je prostá
 někde tam čeká
 a chce vás dostat
 
-------
+---
 
-- 1, 2, 3, 4 - v ulici náhle všechno zmizí
-- 5 a 6 a ještě 7 - bílá dodávka přijede před dům
+1, 2, 3, 4 – v ulici náhle všechno zmizí
+5 a 6 a ještě 7 – bílá dodávka přijede před dům
 
-**--Sleduje tě bílá dodávka--**
+Sleduje tě bílá dodávka!
 ````

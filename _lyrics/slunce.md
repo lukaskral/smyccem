@@ -20,11 +20,11 @@ je v tom velká tíha
 kam jen dohlédne
 tma se rozestírá
 
-[e C D h - C e C D]
-Pondělí je - mezi dvěma světy prám
-pomalý a rychlý - svět se roztáčí a syčí
-kola všech těch aut - a značky na svých tyčích
-ptáci zdraví chodce - každý je tak trochu sám
+[e C D h – C e C D]
+Pondělí je – mezi dvěma světy prám
+pomalý a rychlý – svět se roztáčí a syčí
+kola všech těch aut – a značky na svých tyčích
+ptáci zdraví chodce – každý je tak trochu sám
 
 3. Mezi půlnocí
 mezi půlnocí a dnem

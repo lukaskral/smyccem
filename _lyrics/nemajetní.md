@@ -2,7 +2,7 @@
 title: 'Nemajetní'
 ---
 ````
-[f - C# - b - C]
+[f – C# – b – C]
 Chraň Maria panno nemajetné
 z potoků si vodu brali
 pod širým nebem nocovali
@@ -23,14 +23,14 @@ chraň ty jenž v zubech kola doby
 se na jemný prach se rozpadají
 už od půl čtvrté každý den
 
-[f - #G]
+[f – #G]
 Chraň malé děvče se sirkami
 a všechny mámy co jsou samy
 
-[c - G# - f - G]
+[c – G# – f – G]
 *REF:* Buď na ně hodná vždyť mají pravdu. 
 vše na co sáhli se jak hroudy hroutí
-na troskách zámků vzdužných se válí
+na troskách zámků vzdušných se válí
 účtenky mrtvý a pozůstalí
 
 že nebyl čas vhodný že čas ještě přijde
@@ -38,12 +38,12 @@ na troskách zámků vzdužných se válí
 a že úspěšní nejsou ale jsou dobří
 že stačí jen vydržet a ono to vyjde
 
-[c - G# - f - G]
-[c - G# - f - G]
+[c – G# – f – G]
+[c – G# – f – G]
 
-[#G - C#] (bridge)
+[#G – C#]
 
-[f - C# - b - C]
+[f – C# – b – C]
 Chraň Maria panno malé děti
 ty nakonec to všechno zdědí
 a namísto vlastních odpovědí
@@ -66,7 +66,7 @@ a svět se stále komplikuje
 
 *REF:*
 
-[e - g]
+[e – g]
 Ať jednou vše vyjde jak slunce z tý zimy
 a všichni se potkají ve stejném ráji
 bohatí chudí a my mezi nimi

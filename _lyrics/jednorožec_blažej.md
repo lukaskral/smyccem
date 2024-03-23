@@ -1,6 +1,6 @@
 ---
 title: 'Jenorožec Blažej🦄'
-youtube: "https://www.youtube.com/embed/U1_F6BSpFBA"
+youtube: "U1_F6BSpFBA"
 ---
 ````
 C F C
@@ -31,7 +31,7 @@ chci lásky koňskou dávku
 
 Kopyto na to že podkovy snesu
 poklušu k potoku a pak tryskem k lesu
-povely znám čehý pr i hijé
+povely znám čehý pr i hyjé
 v Kobylisích to žije
 
 **J.**
@@ -49,7 +49,7 @@ ale on s nima rozhodně běžel
 a běžel tak jak běží oni,
 možná dokonce rychleji,
 ale co na tom všem záleží
-když jsi venku - mezi přáteli♥️
+když jsi venku – mezi přáteli♥️
 
 **J.**
 ````

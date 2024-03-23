@@ -18,7 +18,7 @@ const Menu = () => {
                 <Link href="/hudba">Hudba</Link>
               </li>
               <li>
-                <Link href="/texty">Texty s akordy</Link>
+                <Link href="/texty">Texty</Link>
               </li>
               <li>
                 <Link href="/kontakt">Kontakt</Link>

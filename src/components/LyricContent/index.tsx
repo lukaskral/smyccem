@@ -1,6 +1,6 @@
 import styles from './LyricContent.module.scss'
 import Page from '../Page'
-import Header from '../Menu'
+import { YouTubeEmbed } from '@next/third-parties/google'
 
 type LyricContentProps = {
   content: string
@@ -10,18 +10,12 @@ type LyricContentProps = {
 
 const LyricContent = ({ content, title, youtube }: LyricContentProps) => {
   return (
-    <Page title={title} bg="/assets/site/001.jpeg">
+    <Page title={title} bg="/assets/site/001.jpeg" opacity1="0.9" opacity2="0.5">
       {/* <h1>{title}</h1> */}
       {youtube && (
-        <iframe
-          className="noprint"
-          width="560"
-          height="315"
-          src={youtube}
-          title="YouTube video player"
-          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-          allowFullScreen
-        ></iframe>
+        <div className="noprint">
+          <YouTubeEmbed videoid={youtube} height={400} />
+        </div>
       )}
       <div className="noprint"></div>
       <div className={styles['lyric-content']} dangerouslySetInnerHTML={{ __html: content }} />

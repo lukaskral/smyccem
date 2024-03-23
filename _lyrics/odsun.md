@@ -5,27 +5,27 @@ title: 'Odsun'
 
 ````
 
-Od [E7] sun
-kdo ví kdo stavěl vašich dům [F#][f#][F#]
+Od [E7]sun
+kdo ví kdo stavěl vašich dům [F# f# F#]
 kdo mával z okna sousedům [f#][F#]
 kdo sázel stromy pro váš sad [g#]
 
 kdo [f#] ví,
 
-a [g#] kam ho osud [C#] svál? [c# - C#]
-i zítra budou domy stát [c# - C#]
-ty domy i ten starý sad [c# - C#]
-a nedáme to příliš [A] znát 
+a [g#] kam ho osud [C#]svál? [c# – C#]
+i zítra budou domy stát[c# – C#]
+ty domy i ten starý sad[c# – C#]
+a nedáme to příliš [A]znát 
 
 že [a] dnes
 
-když vítr střechy odráží [E]
-i radnice i nádra [f#] ží
-Že není koho by ses [g#] ptal
-kde [f#] jsou
-a [g#] my
-kdo [f#] jsme
-od [E7] sun
+když vítr střechy odráží[E]
+i radnice i nádra[f#]ží
+Že není koho by ses[g#]ptal
+kde [f#]jsou
+a [g#]my
+kdo [f#]jsme
+od [E7]sun
 
 Dobrý den, milé rádio, přáli bychom si zahrát milované babičce Trůdičce nějakou pěknou písničku. Slavi dnes 80 let. Píše paní Adlerová z Děčína. Přejeme hodně zdraví a síly tam daleko za hranicemi. Gratulanti: Marie, Herbert, Grunhulda, Tomáš, Lukáš a Luboš.
 

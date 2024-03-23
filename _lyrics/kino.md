@@ -7,7 +7,7 @@ title: 'Kino'
 *1.* Na plátně kina běží titulky,
 já svírám ruku holky s drdůlky,
 [C f G# B g D#]
-přes patnáct už mi bylo - mě je víc
+přes patnáct už mi bylo – mě je víc
 zhruba tak o měsíc.
 
 [... f G# B C]
@@ -40,7 +40,7 @@ budem mít vlastní byt
 *(REF)*
 
 *BRIDGE*
-Všechno co přejeme si mů-žem mít,
+Všechno co přejeme si mů–žem mít,
 počkat pár let a pak se vzít
 něco nám osud třeba nadělí
 něco je třeba zaplatit 
@@ -50,9 +50,9 @@ v životu v společném a plném krás
 vše co jsme v biografu viděli
 však kde vzít na to čas
 
-- všedním dnům zcela napospas
+– všedním dnům zcela napospas
 
-- a v jednom kole zas
+– a v jednom kole zas
 
 *3.* Den co den na autobus pospíchám
 chtěla jsem doma být před hodinou
@@ -66,7 +66,7 @@ konečně dospělí
 
 > netrapte se tím, zda máte čas či klid
 > možná to není to Paříž ani Tokio ale panelák v Motole
-> což je samozřejmě ta lepší varianta - ta nejlepší
+> což je samozřejmě ta lepší varianta – ta nejlepší
 > navíc ti v té televizi to jen hrají, a my ne
 > my ne a vy taky ne !!
 

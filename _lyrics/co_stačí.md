@@ -18,7 +18,7 @@ jestli čas je ta řeka jak občas se říká
 tak na tomhle místě se točí a vrací
 
 [g d F e B A]
-REF: přijede půlnoční - půlnoční rychlík
+REF: přijede půlnoční – půlnoční rychlík
 a voda v kyblíku odráží neon
 svět je prý veliký kulatý meloun
 vše co je kulaté dolů vrátí

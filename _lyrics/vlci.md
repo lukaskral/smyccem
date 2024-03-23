@@ -3,31 +3,31 @@ title: 'Vlci'
 ---
 
 ````
-[G - a] 
+[G – a] 
 
-1. Prý kdysi / **vlci** / vyli na měsíc
+1. Prý kdysi / vlci / vyli na měsíc
 já však slyším zvuky ulice stejně ve dne stejně jako v noci
 Venku prší / voda padá do ulic
-po třech týdnech sucha *vážně skvělý pocit*
+po třech týdnech sucha vážně skvělý pocit
 
 2. Kolem věci, co jsme domů nanosili
-jak může člověk chtít **tak velké množství hmoty**?
+jak může člověk chtít tak velké množství hmoty?
 je snadné si přát víc a v každou možnou chvíli
 porovnávat s ostatními mobily a boty
 
 3. Jsem starý / ovšem kdo je dneska mladý
 ve světě stokrát rozděleném na rozumné celky
-A **krása / láska** jsou pořád stejně tady
+A krása / láska jsou pořád stejně tady
 i když ví se celkem jistě že jde o vlnové délky 
 
-4. Tělo je chrám / jak víš / a omítka zněj padá
+4. Tělo je chrám / jak víš / a omítka z něj padá
 s každou další sklenicí je těžší vyjít schody
-...**Jen pár let a potom pápá lalá tradá**
+...Jen pár let a potom pápá–lalá–tradá
 hlavně hodně užívat, za zážitky jsou body
 
-5. **Jsme mloci* / na samém konci ropné doby
+5. Jsme mloci* / na samém konci ropné doby
 už jsme objevili pravdu teď nás denně zdobí
-I moudrost, **v knihách**, a dál hledáme spásu
+I moudrost, v knihách, a dál hledáme spásu
 a ta mrcha se nám vyhejbá a vysloveně zlobí
 
 6. Jsme tady / tedy / jako duše navždy?
@@ -45,5 +45,5 @@ tak hledí opět ke hvězdám a vzdálenost je mrazí
 8. Prý kdysi / vlci / vyli na měsíc 
 někde nad převisem jsou údajně zase jejich stopy 
 A pravda / láska / jsou pro mě čím dál víc 
-Ještě uvídím zda nakonec je taky nepochopím 
+Ještě uvidím zda nakonec je taky nepochopím 
 ````
