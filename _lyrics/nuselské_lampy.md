@@ -19,10 +19,10 @@ v krajině zaváté mezi posledními
 
 [B C F]
 Závěje sněhu přes střepy mrazu
-údolím ledu *už vidím Prahu*
+údolím ledu už vidím Prahu
 
 [B C F d]
-Cesta je ze skla nebe už spadlo
+Cesta je ze skla, nebe už spadlo
 krůpěje vody zmrzlé na zrcadlo
 
 [B C d a d]  
@@ -43,18 +43,18 @@ neměli doma teplou večeří
 
 [– F G C]
 Město je past a stovky lidí
-jdou do od neznáma do neznáma
+jdou od neznáma do neznáma
 
 [F G C]
-Někdy se bojím že vprostřed davu
+Někdy se bojím, že vprostřed davu
 se navždy ztratím zůstanu sama
 
 [F G C a]
-Chodník se blízká tramvaje svítí
+Chodník se blízká, tramvaje svítí
 poslední projela před malou chvílí
 
 [F G a G a]
-Půjdu ti na proti tu cestu známe
+Půjdu ti na proti, tu cestu známe
 nuselské lampy už rozsvítili
 
 [d A] 
@@ -63,7 +63,7 @@ na rozbitých starých chodnících
 ti co se ztratili někde v příšeří
 neměli doma teplou večeří 
 
-Budeme opatrní když venku padá sníh
+Budeme opatrní, když venku padá sníh
 na chodnících ve vánici
 ti co se ztratili někde v příšeří 
 neměli rukavice a čepici
@@ -73,11 +73,11 @@ Cesta je ze skla a bílé zimy
 v krajině zaváté mezi posledními
 
 [B C F]
-Někdy se bojím že vprostřed davu
-se navždy ztratímzůstanu sama
+Někdy se bojím, že vprostřed davu
+se navždy ztratím zůstanu sama
 
 [B C F d]
-Těším se na vás"čekáme doma"
+Těším se na vás, čekáme doma
 ulice v mlze ta povědomá
 
 [B C d a d]
