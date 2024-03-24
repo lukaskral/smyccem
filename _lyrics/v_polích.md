@@ -3,29 +3,30 @@ title: 'V polích'
 ---
 ````
 [c f C# c]
-1. Asi zvládla bych i napít
+1. Asi zvládla bych se napít
 dolít olej do soukolí
 Dobojovat všechny mety
 dětem pomoct nad úkoly
 
-Asi zvládla bych se ztišit
+2. Asi zvládla bych se ztišit
 hrách a čočku přebrat přesít
 přelstít touhu nebýt tady
 začít zase věci řešit
 
 [b c]
-2. Asi zvládla bych se dívat
+3. Asi zvládla bych se dívat
 jak se program přes den mění
 od řídkých seriálů
 až ke zprávám dlouhým denním 
 
-sklidit ze stolu i z hlavy
+4. sklidit ze stolu i z hlavy
 celé roky zůstat krásná
-domov zdobit hosty bavit
-odpovědět jsem tak G# šťastná G
+domov zdobit, hosty bavit
+odpovědět: "jsem tak [G] šťastná"
 
 [c f C# c]
-REF: Dneska se půjdu projít v polích
+REF.
+Dneska se půjdu projít v polích
 pozdravit lidi po okolí
 nahlédnout do oken až v noci
 rozsvítí se domy
@@ -36,30 +37,30 @@ jak se potkají dvě srdce
 když se vůbec nehledají
 
 [b c]
-Včera přišel ses jen najíst
+5. Včera přišel ses jen najíst
 říkals' různé běžné věci
 večer volala jsem mámě
-těžko říct co jsem jí řekla
+těžko říct, co jsem jí řekla
 
-asi zase zas to samé
+6. asi zase zas to samé
 že to celé tak ňák plyne
 a ona na to asi řekla
-že už nebude to [G#] jiné [G]
+že už nebude to [G] jiné [G#] 
 
 [c# f# D c#] 
-jenom jedna slza tekla
+7. jenom jedna slza tekla
 jenom jedna malá slza
 pak se máma rozloučila
 teď si hodně rozumíme
 
 [h c#]
-A dneska nezvládnul jsi přijít
+8. A dneska nezvládnul jsi přijít
 a zítra nezvládneš se svěřit
 a já můžu ti dál vařit
-ale nebudu ti A věřit G#
+ale nebudu ti věřit [G#] 
 
 [c# f# D c#]
-*REF...*
+REF.
 
 [h c#]
 Když se nechtějí a neví
