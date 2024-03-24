@@ -11,22 +11,23 @@ kámen urazili střepy tam nechali
 ze svaté rodiny obrázek neštěstí
 muži co zbyli tu mezeru nescelí
 
-2. A malí dospělí jak mohou sami jít
+2. A malí dospělí, jak mohou sami jít
 když neznámé síly bez jediné otázky
 najednou rozdělí postel i stůl i byt
 a všichni zbylí jsou najednou bez lásky
 
 [G h e G f#]
-REF: za co nás trestáš vždyť bylo to skvělé 
+REF.
+Za co nás trestáš, vždyť bylo to skvělé 
 na celou věčnost ve slibu prodlít
 k čemu se boudou teď ty děti modlit
 vždyť vyrostou ve sporu o sebe samé
 
 [G D f#]
-Jak se to stalo že po tom všem štěstí
-jsme došli až do chvíle kdy se jen známe
+Jak se to stalo, že po tom všem štěstí
+jsme došli až do chvíle, kdy se jen známe?
 
-2x Solo nas akordy REF.
+2x Solo na akordy REF.
 
 3. Ukradli Marii z pomníku z náměstí
 kámen urazili střepy tam nechali
@@ -38,15 +39,26 @@ s ní mezeru vyplní a na oko zakryjí
 záplata hedvábná na chvíli vyřeší
 co na jejich náměstí stalo se předloni
 
+REF.
+Za co nás trestáš, vždyť bylo to skvělé 
+na celou věčnost ve slibu prodlít
+k čemu se boudou teď ty děti modlit
+vždyť vyrostou ve sporu o sebe samé
+
+5. Ukradli Marii z pomníku z náměstí
+kámen urazili střepy tam nechali
+ze svaté rodiny obrázek neštěstí
+muži co zbyli tu mezeru nescelí
+
 REF: za co nás trestáš vždyť bylo to skvělé 
 na celou věčnost ve slibu prodlít
 k čemu se boudou teď ty děti modlit
 vždyť vyrostou ve sporu o sebe samé
 
-Jak se to stalo že po tom všem štěstí
-jsme došli až do chvíle kdy se jen známe
+Jak se to stalo, že po tom všem štěstí
+jsme došli až do chvíle, kdy se jen známe?
 
-2x Solo nas akordy REF.
+2x Solo na akordy REF.
 
 5. Ukradli Marii z pomníku z náměstí
 kámen urazili střepy tam nechali
@@ -61,5 +73,5 @@ mám jen chvíli času a takhle ji kazím
 Jak se to stalo, že po tom všem štěstí
 jsme došli až do chvíle, kdy se jen známe
 
-Solo
+1x Solo na akordy REF.
 ````
