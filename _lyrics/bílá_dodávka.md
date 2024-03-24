@@ -2,7 +2,7 @@
 title: 'Bílá dodávka'
 ---
 ````
-– chtějí tě dostat, pravda je prostá, zavři si oči, počítej do sta.
+Chtějí tě dostat, pravda je prostá, zavři si oči, počítej do sta.
 
 1, 2, 3, 4 – v ulici náhle všechno zmizí
 5 a 6 a ještě 7 – bílá dodávka přijede před dům
@@ -15,20 +15,20 @@ Sleduje tě bílá dodávka!
 
 [d a b a]
 
-kde je pocit bezpečí, ochrana státu
+Kde je pocit bezpečí, ochrana státu
 skupina postav tě ve stínech hledá
 máš jen kroužek klíčů a plastovou kartu
 v tom co máš na nohou běžet se nedá
 
-v nevhodnou chvíli na zlé straně dveří
-dýcháš tak rychle že srdce ti skáče
+Jsi v nevhodnou chvíli na zlé straně dveří
+dýcháš tak rychle až srdce ti skáče
 až k tomuhle bodu tvůj rod uměl přežít
 na poslední větvi jsi to poslední ptáče
 
 Sleduje tě bílá dodávka!
 
 Schováš se do stínu nohy si zkřížíš
-ve dne jsi páv v noci máš smůlu
+ve dne jsi páv, v noci máš smůlu
 tam mezi auty na kovové mříži
 počítáš šance a spočítáš nulu
 
@@ -53,7 +53,7 @@ Jsi chmýří májového květu
 [d c a d]
 srnka malá, chytit ale nechat žít
 [d a f a]
-jsi jemná pěna na hladině
+jemná pěna na hladině
 [d c a d]
 ale ráno na pomoc ti neběží
 
@@ -74,20 +74,20 @@ S prvním ranním mopedem s první ranní tramvají
 vraťte se do dmy ať svět světlem zaručí
 denní bezpečí
 
-Vraťte se do tmy tam kde ste se vzali
+Vraťte se do tmy, tam kde jste se vzali
 s prvním houfem ospalých běžících na nádraží
-tramvaje znějí tak jak zvony katedrály
+tramvaje znějí, tak jak zvony katedrály
 když do nich jejich těžká srdce naráží
 
-A v garáži na druhém koci města
-bílá dodávka spí tiše vychládá
+A v té garáži na druhém konci města
+bílá dodávka spí a tiše vychládá
 sklopí světla do smířlivého gesta
 a najednou jak hodné auto vypadá
 
-A zdá se jí jak se řítí nocí
-a ten sen se jí bude do soumraku zdát
+A zdá se jí, jak se řítí nocí
+a ten sen se jí bude až bude do soumraku zdát
 vždycky měla ráda ten svůj pocit
-že děsí všechny kteří nešli spát
+že děsí všechny, kteří nešli spát
 
 Za chvíli půjdete domů
 pravda je prostá
