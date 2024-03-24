@@ -13,8 +13,8 @@ kdo sázel stromy pro váš sad [g#]
 kdo [f#] ví,
 
 a [g#] kam ho osud [C#]svál? [c# – C#]
-i zítra budou domy stát[c# – C#]
-ty domy i ten starý sad[c# – C#]
+i zítra budou domy stát [c# – C#]
+ty domy i ten starý sad [c# – C#]
 a nedáme to příliš [A]znát 
 
 že [a] dnes
@@ -27,9 +27,11 @@ a [g#]my
 kdo [f#]jsme
 od [E7]sun
 
-Dobrý den, milé rádio, přáli bychom si zahrát milované babičce Trůdičce nějakou pěknou písničku. Slavi dnes 80 let. Píše paní Adlerová z Děčína. Přejeme hodně zdraví a síly tam daleko za hranicemi. Gratulanti: Marie, Herbert, Grunhulda, Tomáš, Lukáš a Luboš.
+Právě posloucháte rádio Svobodná Evropa, pořad písně na přání.
 
-Milé přáníčko, a mám ještě jedno milé přáníčko. Píše naše věrná posluchačka Ester Grüberová: Posílám pozdrav z výletu do krásného jižního Bavorska, už se nemůžu dočkat až se podívám domů, je to na mě trochu dlouhá dovolená. Mají tu skvělé klobásy, a nádherně upravené domy, okna plná muškátů a všude čisto. K pozdravu přidávám velkou pusu a starejte se mi o slepice. Zahrajte nějakou pěknou písničku o těch našich vesničkách.
+Dobrý den, milé rádio, přáli bychom si zahrát naší milované babičce Trůdičce nějakou pěknou písničku. Oslavi dnes 80 let. Píše paní Adlerová z Děčína. Přejeme hodně zdraví a síly tam daleko za hranicemi. Gratulanti: Marie, Herbert, Grunhulda, Tomáš, Lukáš a Luboš.
+
+Milé přáníčko, a mám ještě jedno. Píše naše věrná posluchačka paní Ester Grüberová: Posílám pozdrav z výletu do krásného jižního Bavorska. Mají tu skvělé klobásy, okna plná muškátů a všude čisto. Už se nemůžu dočkat až se ale vrátím domů, je to na mě trochu dlouhá dovolená.  K pozdravu přidávám velkou pusu a starejte se mi o slepice. Zahrajte nějakou pěknou písničku o těch našich vesničkách.
 
 
 Odsun...
