@@ -3,24 +3,24 @@ title: 'Nemajetní'
 ---
 ````
 [f – C# – b – C]
-Chraň Maria panno nemajetné
+1. Chraň Maria panno nemajetné
 z potoků si vodu brali
 pod širým nebem nocovali
 a jen čekali co čas jim dá
 
-Chraň dobrých lidí hloupých skutků
+2. Chraň dobrých lidí hloupých skutků
 chraň ty co špatně vychovali
 chraň takové jenž jako malí
 co uvidí to musí mít 
 
-Chraň panno Maria malé lidí
+3. Chraň Maria panno malé lidi
 ti nevidí svět jak se točí
 a vědí jen co řekli jiní
 a věrní jsou až k bezvědomí
 
-Chraň Maria panno nemajetné
+4. Chraň Maria panno nemajetné
 chraň ty jenž v zubech kola doby
-se na jemný prach se rozpadají
+se na jemný prach rozpadají
 už od půl čtvrté každý den
 
 [f – #G]
@@ -28,51 +28,48 @@ Chraň malé děvče se sirkami
 a všechny mámy co jsou samy
 
 [c – G# – f – G]
-*REF:* Buď na ně hodná vždyť mají pravdu. 
+REF.
+Buď na ně hodná vždyť mají pravdu. 
 vše na co sáhli se jak hroudy hroutí
 na troskách zámků vzdušných se válí
 účtenky mrtvý a pozůstalí
 
-že nebyl čas vhodný že čas ještě přijde
+Že nebyl čas vhodný že čas ještě přijde
 že na příkrých stráních se jim kola boří
 a že úspěšní nejsou ale jsou dobří
 že stačí jen vydržet a ono to vyjde
 
-[c – G# – f – G]
-[c – G# – f – G]
-
 [#G – C#]
 
-[f – C# – b – C]
-Chraň Maria panno malé děti
+5. Chraň Maria panno malé děti
 ty nakonec to všechno zdědí
 a namísto vlastních odpovědí
 se na ně dlouhé dluhy lepí 
 
-Chraň ty co byli velkolepí
+6. Chraň ty co byli velkolepí
 a pak najednou velká smůla
 je jako matka přivinula
 a teď loudají se mezi námi
 
-Chraň ty co štěstí prodávají
+7. Chraň ty co štěstí prodávají
 a tváří se jak by ho měli
 a od pondělí po neděli
 si věří že ho budou mít
 
-Chraň Maria panno nemajetné
+8. Chraň Maria panno nemajetné
 chraň stádo ovcí až se setmí
 i velcí mohou býti dětmi
 a svět se stále komplikuje
 
-*REF:*
+REF.
 
 [e – g]
-Ať jednou vše vyjde jak slunce z tý zimy
+Ať jednou vše vyjde jak slunce z té zimy
 a všichni se potkají ve stejném ráji
 bohatí chudí a my mezi nimi
 každému stejnou peřinu dají
 
-a každému ukáží kde dělal chyby
+A každému ukáží kde dělal chyby
 a dají mu kakao, sušenky prosté
 andělé lidi a my mezi nimi
 kteří jsou doma a kteří jsou hosté
@@ -87,6 +84,6 @@ chraň Maria panno nemajetné
 chraň Maria panno nemajetné
 chraň Maria panno nemajetné
 
-jdi zbloudilé ovce ve stráních najít
+jdi zbloudilé ovce ve stráních najít...
 
 ````
