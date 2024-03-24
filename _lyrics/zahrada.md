@@ -6,7 +6,7 @@ youtube: "XkHjODApuFg"
 A: [d G – d G – d G – B a]
 B: [d C – F G – a e – B C]
 
-*A* svázala si svoje vlasy
+*A* Svázala si svoje vlasy
 na práci a na počasí
 nedbala a z divočiny
 zahradu nám vytvořila
@@ -47,4 +47,5 @@ zahradu nám vyhrabala
 vysázela vysklízela
 vysklízela vynosila
 vynosila vy–pro–si–la (d)
+
 ````
