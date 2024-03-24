@@ -4,15 +4,16 @@ title: 'Stalo se vám'
 ````
 [c G# B g]
 
-2x Stalo se vám,
+REF. 1
+Stalo se vám
 že někde v půlce filmu
 jste nevěděli
-kdo je hlavní?
+kdo je hlavní? 
 
 1. Kdo byl předurčen a předvybrán
 aby v poslední vteřině ukázal všem
 jak jde zachránit svět
-a rukojmí odvízt zpět
+a rukojmí odvézt zpět
 
 2. Kdo se nebojí říci po boji
 má dívko, můj kovboji
@@ -20,12 +21,15 @@ a kdo chce opravdu býti milován
 řekne obojí
 
 3. Kdo má v rukávu vždycky
-prýma trik proti banditům nebo osudu
-a když se náhodou svlíkne na scéně
-neudělá ostudu
+príma trik proti banditům nebo osudu
+a když se náhodou svlékne na scéně
+nedělá ostudu
 
-Stalo se vám, že někde v půlce filmu...
-Stalo se vám, že někde v půlce života...
+REF. 2
+Stalo se vám
+že někde v půlce života
+jste nevěděli
+kdo je hlavní? 
 
 4. Kdo vám potajmu drží palce
 když se po práci někde v podnájmu
@@ -36,11 +40,11 @@ když se vám směje celá třída
 nebo když se venku režim střídá
 hm hm hm hm
 
-Stalo se vám, že někde v půlce filmu...
-Stalo se vám, že někde v půlce života...
-Stalo se vám, že někde v půlce mrknutí jste oči znovu neotevřeli?
+REF. 1
+REF. 2
+Stalo se vám, že někde v půlce mrknutí, jste oči znovu neotevřeli?
 
-A Tady se dělí film na 2 části
+A tady se dělí film na dvě části
 v té první jsem věděl, že všechno chápu
 ale čím dál víc vidím, jak strašně se mýlím
 o co tu běží v téhleté chvíli?
@@ -55,8 +59,8 @@ jak stěna ze dřeva, jak cílová páska
 jak poslední scéna, co o tom víme
 jsem celkem zvědav, no uvidíme
 
-Stalo se vám, že někde v půlce filmu...
-Stalo se vám, že někde v půlce života...
-Stalo se vám, že někde v půlce mrknutí jste oči znovu neotevřeli?
+REF. 1
+REF. 2
+Stalo se vám, že někde v půlce mrknutí, jste oči znovu neotevřeli?
 
 ````
