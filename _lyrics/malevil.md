@@ -13,10 +13,11 @@ tam žil tisíc let jako mnich jako nástupce nás všech
 2. Pak mrak jako stín
 všechno přikryl ale odhalil
 že co je ti po lidech
-když jejich stopa zmizí
-a těch tisíc let byl otec velekněz a kmet
+když jejich stopy zmizí
+a těch tisíc let byl otec, velekněz a kmet
 
-Ref: za tu noc se toho mnoho změní
+REF.
+Za tu noc se toho mnoho změní
 třeba kometa obletí náš svět
 nebo půlměsíc si ho celý podmaní
 ale ráno už z toho vůbec nic není
@@ -25,7 +26,7 @@ ale ráno už z toho vůbec nic není
 před městem objevil
 ukrytou cestu
 na zámek Malevil
-…a pak byl chvíli rád že má klid
+a pak byl chvíli rád že má klid
 
 4. Pak přišly spory nejprve s rozpaky
 koně a praky nakonec padáky
@@ -35,13 +36,13 @@ a po válce zas nový blahobyt
 a v noci opuštěn
 na plné zemi
 stále ten stejný sen
-A zvládat touhy nenávist a zášť
+a zvládat touhy, nenávist a zášť
 
 6. Za hodně tisíc
 se v práci usedět
 a večer popít
-a nebo vyprávět
+a přitom vyprávět
 – co hráli a nebo jak se máš
 
-Ref
+REF.
 ````
