@@ -13,14 +13,15 @@ dveře nezavírá
 
 2. V půlce chodníku
 kousek od tramvají
-trochu poposkočí
-všechno celkem stíhá 
-má své povinností
+trochu popoběhne
+všechno krásně stíhá 
+má své povinnosti
 je v tom velká tíha
 kam jen dohlédne
 tma se rozestírá
 
 [e C D h – C e C D]
+REF.
 Pondělí je – mezi dvěma světy prám
 pomalý a rychlý – svět se roztáčí a syčí
 kola všech těch aut – a značky na svých tyčích
@@ -37,14 +38,14 @@ potom hopká dolů
 
 4. Vagón poslední
 v posledním okamžiku
-nikdo nedobíhá 
-však pán co tam stojí 
+někdo nedobíhá 
+pán však co tam stojí 
 dveře podrží
 nechá všechny projít  
 já vám děkuji
 a pak jedou spolu 
 
-Ref.
+REF.
 
 Instr. mezihra
 
@@ -59,11 +60,11 @@ tma se rozvaluje
 6. Mezi půlnocí
 mezi půlnocí a dnem
 slunce dorazí na vysokou horu 
-vyjde po schodech
+vyjde nad mraky
 podívá se do dolů 
 pro nás pro všechny
 světlo vyčaruje
 
-Ref.
+REF.
 
 ````
