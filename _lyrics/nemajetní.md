@@ -23,7 +23,7 @@ chraň ty jenž v zubech kola doby
 se na jemný prach rozpadají
 už od půl čtvrté každý den
 
-[f – #G]
+[f – G#]
 Chraň malé děvče se sirkami
 a všechny mámy co jsou samy
 
@@ -39,7 +39,7 @@ na troskách zámků vzdušných se válí
 a že úspěšní nejsou ale jsou dobří
 že stačí jen vydržet a ono to vyjde
 
-[#G – C#]
+[G# – C#]
 
 5. Chraň Maria panno malé děti
 ty nakonec to všechno zdědí
