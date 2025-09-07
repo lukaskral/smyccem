@@ -2,7 +2,7 @@
 title: 'Nuselské lampy'
 ---
 ````
-[d A]
+[C# G#]
 Buď opatrný v zimních měsících 
 na zapadlých malých silnicích 
 ti co se ztratili ve vánici 
@@ -13,51 +13,51 @@ máme o tebe velký strach
 ať domů se každý dostane 
 na niti z klubka motané 
 
-[B – F d]
+[A – E]
 Cesta je ze skla a bílé zimy
 v krajině zaváté mezi posledními
 
-[B C F]
+[A H E]
 Závěje sněhu přes střepy mrazu
 údolím ledu už vidím Prahu
 
-[B C F d]
+[A H E c#]
 Cesta je ze skla, nebe už spadlo
 krůpěje vody zmrzlé na zrcadlo
 
-[B C d a d]  
+[A H c# g# c#]  
 Těším se na vás čekáme doma
 ulice v mlze ta povědomá
 
-[d A]
+[C# G#]
 Buď opatrný v zimních měsících 
 na zapadlých malých silnicích 
 ti co se ztratili ve vánici 
 neměli rukavice a čepici 
 
-[d A] 
+[C# G#] 
 Buď opatrná v městských ulicích
 na rozbitých starých chodnících
 ti co se ztratili někde v příšeří
 neměli doma teplou večeří 
 
-[– F G C]
+[F# G# C#]
 Město je past a stovky lidí
 jdou od neznáma do neznáma
 
-[F G C]
+[F# G# C#]
 Někdy se bojím, že vprostřed davu
 se navždy ztratím zůstanu sama
 
-[F G C a]
+[F# G# C# b]
 Chodník se blízká, tramvaje svítí
 poslední projela před malou chvílí
 
-[F G a G a]
+[F# G# g# F # g#]
 Půjdu ti na proti, tu cestu známe
 nuselské lampy už rozsvítili
 
-[d A] 
+[C# G#] 
 Buď opatrná v městských ulicích
 na rozbitých starých chodnících
 ti co se ztratili někde v příšeří
@@ -68,19 +68,19 @@ na chodnících ve vánici
 ti co se ztratili někde v příšeří 
 neměli rukavice a čepici
 
-[B C F d]
+[A H E]
 Cesta je ze skla a bílé zimy
 v krajině zaváté mezi posledními
 
-[B C F]
+[A H E]
 Někdy se bojím, že vprostřed davu
 se navždy ztratím zůstanu sama
 
-[B C F d]
+[A H E c#]
 Těším se na vás, čekáme doma
 ulice v mlze ta povědomá
 
-[B C d a d]
+[A H c# g# c#] 
 Půjdu ti na proti tu cestu známe
 nuselské lampy už rozsvítili
 ````
